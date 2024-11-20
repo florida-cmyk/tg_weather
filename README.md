@@ -1,1 +1,1 @@
-# tg_weather
+pip install -r requirements.txt
